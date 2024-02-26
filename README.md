@@ -1,10 +1,16 @@
 # Team Project Name
 
 List of participants and affiliations:
-- Participant, Affiliation (Team Leader)
-- Participant, Affiliation
+
+- Bingfang Xu (Team Lead)
+- Daniel Sierra (Tech Lead)
+- Julie Bocetti (Writer)
+- Brendan Rielly
+- Helga 
 
 ## Project Goals
+
+Using data from a 2016 paper 'A Landscape of Pharmacogenomic Interactions in Cancer' (https://pubmed.ncbi.nlm.nih.gov/27397505/), we aim to predict IC50 (Half-maximal inhibitory concentration) of cancer drugs using information about gain/loss mutations in each cell line.
 
 ## Approach
 
