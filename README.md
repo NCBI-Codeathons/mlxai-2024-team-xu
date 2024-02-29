@@ -4,8 +4,8 @@ List of participants and affiliations:
 
 | Role | Name | Affiliation | 
 |------|------|-------------|
-| Team Lead | Bingfang Xu |  |
-| Tech Lead | Daniel Sierra |  |
+| Team Lead | Bingfang Ruth Xu | Frederick National Laboratory for Cancer Research (FNLCR), Leidos Biomedical Research, Inc., CMDL |
+| Tech Lead | Daniel Siera-Sosa | Assistant Professor, Department of Computer Science and IT, Hood College |
 | Writer | Julie Bocetti | NICHD | 
 | Flex | Todd Young | Frederick National Laboratory for Cancer Research (FNLCR), Leidos Biomedical Research, Inc., CMDL |
 | Flex | Brendan Reilly | Co-PI NSF 2221959, Co-PI NSF 2314315, Adjunct Lecturer Brooklyn College |
