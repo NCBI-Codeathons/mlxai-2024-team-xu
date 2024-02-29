@@ -8,7 +8,7 @@ List of participants and affiliations:
 | Tech Lead | Daniel Sierra |  |
 | Writer | Julie Bocetti | NICHD | 
 | Flex | Todd Young | Frederick National Laboratory for Cancer Research (FNLCR), Leidos Biomedical Research, Inc., CMDL |
-| Flex | Brendan Rielly | Co-PI NSF 2221959, Co-PI NSF 2314315, Adjunct Lecturer Brooklyn College |
+| Flex | Brendan Reilly | Co-PI NSF 2221959, Co-PI NSF 2314315, Adjunct Lecturer Brooklyn College |
 | Flex | Helga Saizonou | Tropical Infections Diseases Research Centre (TIDRC), Univeristy of Abomey-Calavi (UAC)|
 
 ## Project Goals
