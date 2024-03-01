@@ -2,11 +2,14 @@
 
 List of participants and affiliations:
 
-- Bingfang Xu (Team Lead)
-- Daniel Sierra (Tech Lead)
-- Julie Bocetti (Writer)
-- Brendan Rielly
-- Helga 
+| Role | Name | Affiliation | 
+|------|------|-------------|
+| Team Lead | Bingfang Ruth Xu | Frederick National Laboratory for Cancer Research (FNLCR), Leidos Biomedical Research, Inc., CMDL |
+| Tech Lead | Daniel Sierra-Sosa | Assistant Professor, Department of Computer Science and IT, Hood College |
+| Writer | Julie Bocetti | NICHD | 
+| Flex | Todd Young | Frederick National Laboratory for Cancer Research (FNLCR), Leidos Biomedical Research, Inc., CMDL |
+| Flex | Brendan Reilly | Co-PI NSF 2221959, Co-PI NSF 2314315, Adjunct Lecturer Brooklyn College |
+| Flex | Helga Saizonou | Tropical Infections Diseases Research Centre (TIDRC), Univeristy of Abomey-Calavi (UAC)|
 
 ## Project Goals
 
@@ -14,12 +17,17 @@ Genomics of Drug Sensistivity in Cancer (GDSC) is a valuable resource for pharma
 
 Currently, for a given drug, GDSC provides ANOVA test results for each of the 700 genomic features. We aim to identify a panel of features with a high predictive value for drug response of each individual drug using machine learning. We will first use over 700 genetic features as input and IC50 (Half-maximal inhibitory concentration) as the output in our model to predict drug response. We will test whether our panel of features includes the genomic features selected by the ANOVA test. 
 
-## Data 
+## Approach
+
+### Data 
 
 Data was generated from a 2016 paper: 'A Landscape of Pharmacogenomic Interactions in Cancer' (https://pubmed.ncbi.nlm.nih.gov/27397505/)
+
 Data was accessed online from: https://www.cancerrxgene.org/downloads/drug_data (GDSC2 files)
 
-## Approach
+### Model
+
+We are using 1470 genetic features that are binary, leading to a sparce distribution of information that is best modeled using decision trees. Our target variable (IC50) is continuous so we will be performing regression. To accomplish these 2 goals, we will use XGBoost.
 
 ## Results
 
