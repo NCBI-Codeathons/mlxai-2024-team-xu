@@ -1,8 +1,8 @@
 Ten-fold Error:
-Mean MAE: 0.714 (0.052)
-Mean Absolute Error (MAE): 0.0012
-Median Absolute Error (MedAE): 0.0007
-Mean Squared Error (MSE): 4e-06
-Root Mean Squared Error (RMSE): 0.0019
-Mean Absolute Percentage Error (MAPE): 0.0279 %
-Median Absolute Percentage Error (MDAPE): 0.0141 %
+Mean MAE: 0.720 (0.054)
+Mean Absolute Error (MAE): 0.7263
+Median Absolute Error (MedAE): 0.6069
+Mean Squared Error (MSE): 0.852555
+Root Mean Squared Error (RMSE): 0.9233
+Mean Absolute Percentage Error (MAPE): 16.1214 %
+Median Absolute Percentage Error (MDAPE): 12.2823 %
