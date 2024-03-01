@@ -27,7 +27,7 @@ Data was accessed online from: https://www.cancerrxgene.org/downloads/drug_data 
 
 ### Model
 
-We are using 1470 genetic features that are binary, leading to a sparce distribution of information that is best modeled using decision trees. Our target variable (IC50) is continuous so we will be performing regression. To accomplish these 2 goals, we will use XGBoost.
+We are using >700 genetic features that are binary, leading to a sparce distribution of information that is best modeled using decision trees. Our target variable (IC50) is continuous so we will be performing regression. To accomplish these 2 goals, we will use XGBoost.
 
 ## Results
 
